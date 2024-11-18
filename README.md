@@ -1,6 +1,6 @@
 # Image Encryption and Decryption Web Application
 
-A web-based tool to securely encrypt and decrypt image files using cryptographic algorithms. Protect sensitive images by encrypting them and retrieve them back with the decryption feature.
+A web-based tool to securely encrypt and decrypt image files using cryptographic algorithms. Protecting sensitive images by encrypting them and retrieve them back with the decryption feature.
 
 ---
 
@@ -31,7 +31,6 @@ A web-based tool to securely encrypt and decrypt image files using cryptographic
 ## Supported Algorithms
 
 - *DES* (Data Encryption Standard): Symmetric key encryption for securing images.  
-  Note: Additional algorithms (e.g., AES, RSA) will be added in future updates.
 
 ---
 
@@ -46,8 +45,8 @@ A web-based tool to securely encrypt and decrypt image files using cryptographic
 
 
 
-## Contact
-Feel free to reach out for suggestions or collaboration:  
-*Your Name*  
-*Email*: dakshish.murthy2005@gmail.com
-*GitHub*: https://github.com/Dakshish-Murthy/SecureImageXchange-main
+## Team Members 
+S Dakshish Murthy (22bcs102)
+Harsh Chawla (22bcs045)
+Priyansh (22bcs091)
+Swaraj Rajesh Karvande (22bcs128)
