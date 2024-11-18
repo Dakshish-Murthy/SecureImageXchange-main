@@ -15,10 +15,15 @@ By leveraging DES, the project highlights practical applications of symmetric-ke
 ## Features
 
 - *Encryption of Image Files*: Encrypt uploaded image files with a cryptographic algorithm to secure them.
+
    - ![alt text](<WhatsApp Image 2024-11-18 at 14.01.41_362b5d14.jpg>)
+
 - *Decryption of Image Files*: Decrypt the previously encrypted image to retrieve the original.
+
    - ![alt text](<WhatsApp Image 2024-11-18 at 14.01.43_daee2fe9.jpg>)
+
    - ![alt text](<WhatsApp Image 2024-11-18 at 14.01.42_fcb32432.jpg>)
+   
 - *User-Friendly Interface*: Easy-to-use interface for seamless interaction.
 - *File Integrity*: Ensures that the decrypted image is identical to the original image file.
 - *Cross-Platform Support*:
@@ -85,6 +90,13 @@ By leveraging DES, the project highlights practical applications of symmetric-ke
   - Implement graphical user interface (GUI) for improved usability.
   - Add support for encrypting and decrypting other file types.
   - Enhance the security of key management using hybrid cryptographic methods
+
+---
+## Conclusion
+
+This project serves as a practical implementation of cryptographic principles, showcasing the use of the DES algorithm for securing image files. While DES is primarily used here for educational purposes due to its historical significance, the project provides a strong foundation for understanding symmetric encryption techniques and their applications.
+
+By emphasizing both functionality and learning, this project bridges the gap between theoretical knowledge and practical application, contributing to a deeper understanding of network security.
 
 ---
 
