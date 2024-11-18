@@ -46,7 +46,7 @@ A web-based tool to securely encrypt and decrypt image files using cryptographic
 
 
 ## Team Members 
-S Dakshish Murthy (22bcs102)
-Harsh Chawla (22bcs045)
-Priyansh (22bcs091)
-Swaraj Rajesh Karvande (22bcs128)
+- S Dakshish Murthy (22bcs102)
+- Harsh Chawla (22bcs045)
+- Priyansh (22bcs091)
+- Swaraj Rajesh Karvande (22bcs128)
